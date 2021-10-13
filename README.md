@@ -7,7 +7,7 @@ X and O in one of the nine places on a three-by-three grid.*
 
 
 **The Contributors are:-**
-* **Aadil Haider Ali** 
+* **Aadil Haidar Ali** 
 * **Atulya**
-* **Chandni**
+* **Chandni Soni**
 * **Aasmant Patil**
